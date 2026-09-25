@@ -1,5 +1,10 @@
 # Sales Performance Analysis
 
+![Portfolio Ready](https://img.shields.io/badge/Project-Portfolio%20Ready-22C55E?style=for-the-badge&labelColor=555555)
+![UCI Online Retail](https://img.shields.io/badge/UCI-Online%20Retail-00AEEF?style=for-the-badge&labelColor=555555)
+![DuckDB SQL](https://img.shields.io/badge/DuckDB-SQL-FFF000?style=for-the-badge&logo=duckdb&logoColor=white&labelColor=555555)
+![Power BI Dashboard](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=555555) 
+
 Case study nhỏ phân tích **Sales Performance** end-to-end bằng **SQL, DuckDB và Power BI**, tập trung xác định sản phẩm và quốc gia đóng góp lớn vào Sales Value, đồng thời theo dõi Sales Value theo tháng.
 
 Nguồn dữ liệu: Chen, D. (2015), [Online Retail — UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/352/online%2Bretail), [DOI: 10.24432/C5BW33](https://doi.org/10.24432/C5BW33). Giấy phép: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).

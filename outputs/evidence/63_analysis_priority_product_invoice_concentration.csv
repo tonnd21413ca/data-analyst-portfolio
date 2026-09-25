@@ -1,0 +1,21 @@
+concentration_scope,invoice_peak_month_rank,stock_code,priority_peak_month,InvoiceNo,transaction_date,country,customer_id,sales_value,sales_quantity,peak_month_product_sales_value_contribution_pct,cumulative_peak_month_product_sales_value_contribution_pct,full_period_product_sales_value_contribution_pct
+priority_product_peak_month,1,22423,2010-12-01,538191,2010-12-10,United Kingdom,15061,2978.400,272,10.754381,10.754381,1.771145
+priority_product_peak_month,2,22423,2010-12-01,539750,2010-12-21,United Kingdom,,2013.710,79,7.271087,18.025468,1.197479
+priority_product_peak_month,3,22423,2010-12-01,536785,2010-12-02,United Kingdom,15061,1576.800,144,5.693496,23.718963,0.937665
+priority_product_peak_month,4,22423,2010-12-01,538877,2010-12-14,United Kingdom,,1325.480,52,4.786032,28.504995,0.788214
+priority_product_peak_month,5,22423,2010-12-01,536970,2010-12-03,United Kingdom,17949,1314.000,120,4.74458,33.249575,0.781387
+priority_product_peak_month,6,22423,2010-12-01,538351,2010-12-10,United Kingdom,,968.620,38,3.497485,36.74706,0.576003
+priority_product_peak_month,7,22423,2010-12-01,537618,2010-12-07,United Kingdom,15061,876.000,80,3.163053,39.910113,0.520925
+priority_product_peak_month,8,22423,2010-12-01,538998,2010-12-15,United Kingdom,15061,876.000,80,3.163053,43.073166,0.520925
+priority_product_peak_month,9,22423,2010-12-01,536982,2010-12-03,United Kingdom,,841.170,33,3.037289,46.110456,0.500213
+priority_product_peak_month,10,22423,2010-12-01,537640,2010-12-07,United Kingdom,,637.250,25,2.300977,48.411432,0.378949
+priority_product_peak_month,11,22423,2010-12-01,537237,2010-12-06,United Kingdom,,610.560,48,2.204605,50.616037,0.363078
+priority_product_peak_month,12,22423,2010-12-01,536592,2010-12-01,United Kingdom,,597.840,47,2.158676,52.774713,0.355513
+priority_product_peak_month,13,22423,2010-12-01,537040,2010-12-05,United Kingdom,13089,525.600,48,1.897832,54.672545,0.312555
+priority_product_peak_month,14,22423,2010-12-01,536544,2010-12-01,United Kingdom,,508.800,40,1.837171,56.509715,0.302565
+priority_product_peak_month,15,22423,2010-12-01,536876,2010-12-03,United Kingdom,,508.800,40,1.837171,58.346886,0.302565
+priority_product_peak_month,16,22423,2010-12-01,537434,2010-12-06,United Kingdom,,457.970,35,1.653634,60.00052,0.272338
+priority_product_peak_month,17,22423,2010-12-01,537240,2010-12-06,United Kingdom,,381.600,30,1.377878,61.378398,0.226923
+priority_product_peak_month,18,22423,2010-12-01,538174,2010-12-10,Germany,12471,350.400,32,1.265221,62.643619,0.20837
+priority_product_peak_month,19,22423,2010-12-01,538499,2010-12-12,United Kingdom,17819,350.400,32,1.265221,63.908841,0.20837
+priority_product_peak_month,20,22423,2010-12-01,539395,2010-12-17,Germany,12471,350.400,32,1.265221,65.174062,0.20837

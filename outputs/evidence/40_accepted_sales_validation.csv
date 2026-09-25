@@ -1,0 +1,6 @@
+check_name,error_rows,passed
+accepted_sales_schema,0,true
+derived_values,0,true
+population_membership,0,true
+source_row_number_uniqueness,0,true
+stage_2_accepted_row_count,0,true

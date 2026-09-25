@@ -1,0 +1,5 @@
+check_name,relevant_rows,error_rows,passed
+country_denominator_scope,31010,0,true
+product_denominator_scope,281,0,true
+selected_scope_denominator,1,0,true
+zero_denominator_returns_null,1,0,true

@@ -1,0 +1,6 @@
+check_name,error_rows,passed
+dim_date_key_uniqueness,0,true
+dim_date_missing_values,0,true
+dim_date_schema,0,true
+dim_date_values_and_continuity,0,true
+fact_date_coverage,0,true

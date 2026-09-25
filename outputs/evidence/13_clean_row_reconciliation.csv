@@ -1,0 +1,2 @@
+raw_rows,distinct_source_rows,removed_duplicate_rows,clean_rows,row_reconciliation_passed,deduplicated_quantity_total,clean_quantity_total,quantity_reconciliation_passed,deduplicated_line_value_total,clean_line_value_total,line_value_reconciliation_passed
+541909,536641,5268,536641,true,5162502,5162502,true,9726006.954,9726006.954,true

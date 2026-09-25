@@ -1,0 +1,5 @@
+column_name,column_type,null,key,default,extra
+calendar_date,DATE,YES,,,
+year_number,INTEGER,YES,,,
+month_number,INTEGER,YES,,,
+month_start,DATE,YES,,,

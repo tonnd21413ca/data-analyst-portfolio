@@ -1,0 +1,8 @@
+population_status,row_count,classified_row_count,clean_row_count
+accepted_sale,522540,536641,536641
+excluded_missing_invoice,0,536641,536641
+excluded_cancellation,9251,536641,536641
+excluded_non_positive_quantity,1336,536641,536641
+excluded_non_positive_unit_price,1176,536641,536641
+excluded_missing_product_code,0,536641,536641
+excluded_non_merchandise,2338,536641,536641

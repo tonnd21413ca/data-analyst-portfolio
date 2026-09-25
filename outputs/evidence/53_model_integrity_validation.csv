@@ -1,0 +1,12 @@
+check_name,error_rows,passed
+country_key_coverage,0,true
+country_key_uniqueness,0,true
+date_key_coverage,0,true
+date_key_uniqueness,0,true
+fact_grain_uniqueness,0,true
+join_country,0,true
+join_date,0,true
+join_product,0,true
+join_total,0,true
+product_key_coverage,0,true
+product_key_uniqueness,0,true

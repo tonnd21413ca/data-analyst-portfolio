@@ -1,0 +1,6 @@
+population_status,row_count,invoice_count,total_quantity,total_line_value,classified_row_count
+accepted_sale,522540,19773,5561387,10247219.323,536641
+excluded_cancellation,9251,3836,-275560,-893979.730,536641
+excluded_non_merchandise,2338,2276,11033,394891.481,536641
+excluded_non_positive_quantity,1336,1336,-206957,0.000,536641
+excluded_non_positive_unit_price,1176,821,72599,-22124.120,536641

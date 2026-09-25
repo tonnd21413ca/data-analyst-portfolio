@@ -1,0 +1,2 @@
+distinct_timestamp_count,distinct_date_count,timestamp_span_minutes,invoice_count,min_rows_per_invoice,max_rows_per_invoice
+2,1,1,43,3,416

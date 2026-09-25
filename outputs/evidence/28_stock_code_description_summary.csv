@@ -1,0 +1,4 @@
+relationship_group,stock_code_count,max_description_count,codes_with_missing_description_rows
+multiple_descriptions,642,8,174
+no_description,110,0,110
+one_description,3206,1,676

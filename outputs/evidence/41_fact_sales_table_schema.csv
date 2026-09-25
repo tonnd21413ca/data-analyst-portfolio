@@ -1,0 +1,6 @@
+column_name,column_type,null,key,default,extra
+transaction_date,DATE,YES,,,
+stock_code,VARCHAR,YES,,,
+country,VARCHAR,YES,,,
+sales_value,"DECIMAL(38,3)",YES,,,
+sales_quantity,BIGINT,YES,,,

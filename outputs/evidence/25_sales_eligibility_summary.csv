@@ -1,0 +1,6 @@
+invoice_group,quantity_sign,unit_price_sign,row_count,invoice_count,min_quantity,max_quantity,min_unit_price,max_unit_price,max_absolute_line_value
+c_prefix,negative,positive,9251,3836,-80995,-1,0.010,38970.000,168469.600
+non_c_prefix,negative,zero,1336,1336,-9600,-1,0.000,0.000,0.000
+non_c_prefix,positive,negative,2,2,1,1,-11062.060,-11062.060,11062.060
+non_c_prefix,positive,positive,524878,19960,1,80995,0.001,13541.330,168469.600
+non_c_prefix,positive,zero,1174,819,1,12540,0.000,0.000,0.000

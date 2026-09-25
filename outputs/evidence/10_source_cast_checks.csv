@@ -1,0 +1,2 @@
+source_rows,quantity_missing,invoice_date_missing,unit_price_missing,quantity_cast_errors,invoice_date_cast_errors,unit_price_format_errors,unit_price_cast_errors,unit_price_rounding_rows
+541909,0,0,0,0,0,0,0,0

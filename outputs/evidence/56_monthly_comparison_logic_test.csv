@@ -1,0 +1,4 @@
+month_start,sales_value,sales_quantity,previous_sales_value,sales_value_change,sales_value_change_ratio,passed
+2020-01-01,100.000,10,,,,true
+2020-02-01,0.000,0,100.000,-100.000,-1.000,true
+2020-03-01,50.000,5,0.000,50.000,,true

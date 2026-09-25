@@ -1,0 +1,11 @@
+InvoiceNo,StockCode,Description,Quantity,InvoiceDate,UnitPrice,CustomerID,Country
+536414,22139,,56,2010-12-01 11:52:00,0.0,,United Kingdom
+536545,21134,,1,2010-12-01 14:32:00,0.0,,United Kingdom
+536546,22145,,1,2010-12-01 14:33:00,0.0,,United Kingdom
+536547,37509,,1,2010-12-01 14:33:00,0.0,,United Kingdom
+536549,85226A,,1,2010-12-01 14:34:00,0.0,,United Kingdom
+536550,85044,,1,2010-12-01 14:34:00,0.0,,United Kingdom
+536552,20950,,1,2010-12-01 14:34:00,0.0,,United Kingdom
+536553,37461,,3,2010-12-01 14:35:00,0.0,,United Kingdom
+536554,84670,,23,2010-12-01 14:35:00,0.0,,United Kingdom
+536589,21777,,-10,2010-12-01 16:50:00,0.0,,United Kingdom

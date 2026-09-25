@@ -1,0 +1,5 @@
+validation_scope,compared_groups,missing_fact_groups,unexpected_fact_groups,metric_mismatch_groups,passed
+total,1,0,0,0,true
+date,297,0,0,0,true
+product,3797,0,0,0,true
+country,38,0,0,0,true

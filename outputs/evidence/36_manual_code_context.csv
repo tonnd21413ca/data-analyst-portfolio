@@ -1,0 +1,4 @@
+is_c_prefix,positive_quantity,positive_unit_price,row_count,invoice_count,unit_price_count,min_quantity,max_quantity,min_unit_price,max_unit_price,provisional_line_value
+false,true,false,6,6,1,1,1,0.000,0.000,0.000
+false,true,true,317,290,131,1,1600,0.060,4287.630,77752.820
+true,false,true,244,223,209,-1350,-1,0.030,38970.000,-146784.460

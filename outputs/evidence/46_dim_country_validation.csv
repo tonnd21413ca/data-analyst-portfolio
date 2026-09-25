@@ -1,0 +1,7 @@
+check_name,error_rows,passed
+dim_country_fact_membership,0,true
+dim_country_key_uniqueness,0,true
+dim_country_missing_keys_or_labels,0,true
+dim_country_schema,0,true
+dim_country_values,0,true
+fact_country_key_coverage,0,true

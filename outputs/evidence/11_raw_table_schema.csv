@@ -1,0 +1,10 @@
+column_name,column_type,null,key,default,extra
+source_row_number,BIGINT,YES,,,
+InvoiceNo,VARCHAR,YES,,,
+StockCode,VARCHAR,YES,,,
+Description,VARCHAR,YES,,,
+Quantity,VARCHAR,YES,,,
+InvoiceDate,VARCHAR,YES,,,
+UnitPrice,VARCHAR,YES,,,
+CustomerID,VARCHAR,YES,,,
+Country,VARCHAR,YES,,,

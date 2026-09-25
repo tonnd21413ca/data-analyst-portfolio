@@ -1,0 +1,15 @@
+check_name,error_rows,passed
+accounting_adjustment_flag,0,true
+blank_descriptions,0,true
+clean_field_values,0,true
+clean_row_number_uniqueness,0,true
+clean_schema,0,true
+dedup_first_occurrence,0,true
+line_value_reconciliation,0,true
+non_c_negative_quantity_flag,0,true
+quantity_reconciliation,0,true
+raw_row_number_uniqueness,0,true
+raw_schema,0,true
+raw_source_fidelity,0,true
+row_reconciliation,0,true
+zero_unit_price_flag,0,true

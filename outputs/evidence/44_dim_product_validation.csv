@@ -1,0 +1,7 @@
+check_name,error_rows,passed
+dim_product_fact_membership,0,true
+dim_product_key_uniqueness,0,true
+dim_product_missing_labels,0,true
+dim_product_schema,0,true
+dim_product_values,0,true
+fact_product_key_coverage,0,true

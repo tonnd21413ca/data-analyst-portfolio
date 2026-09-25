@@ -1,0 +1,5 @@
+check_name,error_rows,passed
+fact_sales_grain_uniqueness,0,true
+fact_sales_reporting_period,0,true
+fact_sales_schema,0,true
+fact_sales_values,0,true

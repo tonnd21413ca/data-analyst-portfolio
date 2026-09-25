@@ -1,0 +1,39 @@
+sales_value_rank,country,country_label,sales_value,sales_quantity,sales_value_contribution_pct
+1,United Kingdom,United Kingdom,8153163.343,4353322,84.640229
+2,Netherlands,Netherlands,272161.320,192300,2.825381
+3,EIRE,EIRE,263709.970,142778,2.737646
+4,Germany,Germany,198356.980,114067,2.059198
+5,France,France,177954.080,107487,1.84739
+6,Australia,Australia,138103.810,83890,1.433694
+7,Spain,Spain,55418.350,27451,0.575313
+8,Switzerland,Switzerland,53065.600,30515,0.550889
+9,Japan,Japan,37416.370,26016,0.38843
+10,Sweden,Sweden,36590.830,35997,0.379859
+11,Belgium,Belgium,35638.610,21869,0.369974
+12,Norway,Norway,29708.940,16958,0.308417
+13,Portugal,Portugal,24534.920,14571,0.254704
+14,Channel Islands,Channel Islands,19799.140,9421,0.20554
+15,Denmark,Denmark,18060.440,8021,0.18749
+16,Finland,Finland,17272.120,10262,0.179307
+17,Italy,Italy,15619.790,8022,0.162153
+18,Cyprus,Cyprus,13167.160,6338,0.136692
+19,Hong Kong,Hong Kong,9744.190,4708,0.101157
+20,Singapore,Singapore,9120.390,5234,0.094681
+21,Austria,Austria,8219.480,4700,0.085329
+22,Israel,Israel,8129.410,4406,0.084394
+23,Poland,Poland,6974.650,3675,0.072406
+24,Unspecified,Unspecified,4740.940,3295,0.049217
+25,Iceland,Iceland,4085.180,2266,0.042409
+26,Greece,Greece,3879.530,1317,0.040274
+27,Canada,Canada,3115.440,2762,0.032342
+28,USA,USA,2695.150,1854,0.027979
+29,Malta,Malta,2070.590,958,0.021495
+30,United Arab Emirates,United Arab Emirates,1864.780,981,0.019359
+31,Lebanon,Lebanon,1693.880,386,0.017585
+32,Lithuania,Lithuania,1661.060,652,0.017244
+33,European Community,European Community,1159.250,490,0.012034
+34,Brazil,Brazil,1143.600,356,0.011872
+35,RSA,RSA,1002.310,351,0.010405
+36,Czech Republic,Czech Republic,786.740,670,0.008167
+37,Bahrain,Bahrain,754.140,314,0.007829
+38,Saudi Arabia,Saudi Arabia,145.920,80,0.001515

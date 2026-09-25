@@ -1,0 +1,3 @@
+column_name,column_type,null,key,default,extra
+country,VARCHAR,YES,,,
+country_label,VARCHAR,YES,,,

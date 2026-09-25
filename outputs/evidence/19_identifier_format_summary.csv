@@ -1,0 +1,9 @@
+identifier_name,format_group,row_count,distinct_value_count,min_length,max_length
+CustomerID,digits_only,401604,4372,5,5
+CustomerID,missing,135037,0,NULL,NULL
+InvoiceNo,c_prefix_plus_digits,9251,3836,7,7
+InvoiceNo,digits_only,527387,22061,6,6
+InvoiceNo,other,3,3,7,7
+StockCode,digits_only,482154,2946,5,5
+StockCode,digits_plus_letters,51498,1091,6,7
+StockCode,other,2989,33,1,12
